@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$USER_HOME$/Documents/EDT Rep" vcs="Git" />
     <mapping directory="$USER_HOME$/Documents/EDT Rep/com.rxcorp.edt" vcs="Git" />
+    <mapping directory="$USER_HOME$/Documents/EDT Rep/com.rxcorp.edt/My Projects" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
